@@ -1,0 +1,288 @@
+9/13/2018 12:55:57 PM Info ICD Started
+9/13/2018 12:55:58 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/13/2018 12:55:58 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/13/2018 12:55:58 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/13/2018 12:55:58 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/13/2018 12:55:58 PM Info ICDWindowTitle: 
+9/13/2018 12:56:34 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 12:56:34 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 12:56:34 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 12:56:34 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 12:56:34 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 12:56:34 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 12:56:34 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 12:56:34 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 1:04:32 PM Info ICD Started
+9/13/2018 1:04:33 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/13/2018 1:04:33 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/13/2018 1:04:33 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/13/2018 1:04:33 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/13/2018 1:04:33 PM Info ICDWindowTitle: 
+9/13/2018 1:04:37 PM Info Project 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/13/2018 1:04:37 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 1:04:37 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 1:04:37 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 1:04:37 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 1:04:37 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 1:04:37 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 1:04:37 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 1:04:37 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 1:04:37 PM Warning Setting constraint violation (0x8007000d) for /ProvisioningCommands/DeviceContext/CommandFiles/1: Value for the asset's source path 'C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\OrchestratorScript.bat' is not a valid file path
+
+9/13/2018 1:06:02 PM Info ICD Started
+9/13/2018 1:06:03 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/13/2018 1:06:03 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/13/2018 1:06:03 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/13/2018 1:06:03 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/13/2018 1:06:03 PM Info ICDWindowTitle: 
+9/13/2018 1:06:09 PM Info Project 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/13/2018 1:06:09 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 1:06:09 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 1:06:09 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 1:06:09 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 1:06:09 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 1:06:09 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 1:06:09 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 1:06:09 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 1:06:09 PM Warning Setting constraint violation (0x8007000d) for /ProvisioningCommands/DeviceContext/CommandFiles/1: Value for the asset's source path 'C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\OrchestratorScript.bat' is not a valid file path
+
+9/13/2018 2:10:13 PM Info ICD Started
+9/13/2018 2:10:15 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/13/2018 2:10:15 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/13/2018 2:10:15 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/13/2018 2:10:15 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/13/2018 2:10:15 PM Info ICDWindowTitle: 
+9/13/2018 2:10:17 PM Info Project 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/13/2018 2:10:17 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 2:10:17 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 2:10:17 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/13/2018 2:10:17 PM Info Loaded settings from Windows Unknown Unknown
+9/13/2018 2:10:17 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 2:10:17 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/13/2018 2:10:17 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/13/2018 2:10:17 PM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 6:54:38 AM Info ICD Started
+9/14/2018 6:54:43 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/14/2018 6:54:43 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/14/2018 6:54:43 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/14/2018 6:54:43 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/14/2018 6:54:43 AM Info ICDWindowTitle: 
+9/14/2018 7:22:36 AM Info Project 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/14/2018 7:22:36 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 7:22:36 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 7:22:36 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 7:22:36 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 7:22:36 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 7:22:36 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 7:22:36 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 7:22:36 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 8:09:57 AM Info ICD Started
+9/14/2018 8:10:02 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/14/2018 8:10:02 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/14/2018 8:10:02 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/14/2018 8:10:02 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/14/2018 8:10:02 AM Info ICDWindowTitle: 
+9/14/2018 8:10:03 AM Info Project 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/14/2018 8:10:03 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 8:10:03 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 8:10:03 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 8:10:03 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 8:10:03 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 8:10:03 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 8:10:03 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 8:10:03 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 9:36:31 AM Info ICD Started
+9/14/2018 9:36:34 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/14/2018 9:36:34 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/14/2018 9:36:34 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/14/2018 9:36:34 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/14/2018 9:36:34 AM Info ICDWindowTitle: 
+9/14/2018 9:36:35 AM Info Project 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/14/2018 9:36:35 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 9:36:35 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 9:36:35 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 9:36:35 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 9:36:35 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 9:36:35 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 9:36:35 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 9:36:35 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 9:57:54 AM Info ICD Started
+9/14/2018 9:57:58 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/14/2018 9:57:58 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/14/2018 9:57:58 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/14/2018 9:57:58 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/14/2018 9:57:58 AM Info ICDWindowTitle: 
+9/14/2018 9:59:54 AM Info Project 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/14/2018 9:59:54 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 9:59:54 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 9:59:54 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/14/2018 9:59:54 AM Info Loaded settings from Windows Unknown Unknown
+9/14/2018 9:59:54 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 9:59:54 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/14/2018 9:59:54 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/14/2018 9:59:54 AM Info Loaded settings from Windows Unknown Unknown
+9/19/2018 1:51:44 PM Info ICD Started
+9/19/2018 1:51:49 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/19/2018 1:51:49 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/19/2018 1:51:49 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/19/2018 1:51:49 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/19/2018 1:51:49 PM Info ICDWindowTitle: 
+9/19/2018 1:52:03 PM Info Project 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/19/2018 1:52:03 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/19/2018 1:52:03 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/19/2018 1:52:03 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/19/2018 1:52:03 PM Info Loaded settings from Windows Unknown Unknown
+9/19/2018 1:52:03 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/19/2018 1:52:03 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/19/2018 1:52:03 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/19/2018 1:52:03 PM Info Loaded settings from Windows Unknown Unknown
+9/20/2018 10:06:19 AM Info ICD Started
+9/20/2018 10:06:23 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/20/2018 10:06:23 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/20/2018 10:06:23 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/20/2018 10:06:23 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/20/2018 10:06:23 AM Info ICDWindowTitle: 
+9/20/2018 10:06:45 AM Info Project 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/20/2018 10:06:45 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/20/2018 10:06:45 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/20/2018 10:06:45 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/20/2018 10:06:45 AM Info Loaded settings from Windows Unknown Unknown
+9/20/2018 10:06:45 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/20/2018 10:06:45 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/20/2018 10:06:45 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/20/2018 10:06:45 AM Info Loaded settings from Windows Unknown Unknown
+9/20/2018 1:48:03 PM Info ICD Started
+9/20/2018 1:48:06 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/20/2018 1:48:06 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/20/2018 1:48:06 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/20/2018 1:48:06 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/20/2018 1:48:06 PM Info ICDWindowTitle: 
+9/20/2018 1:48:19 PM Info Project 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/20/2018 1:48:19 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/20/2018 1:48:19 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/20/2018 1:48:19 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/20/2018 1:48:19 PM Info Loaded settings from Windows Unknown Unknown
+9/20/2018 1:48:19 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/20/2018 1:48:19 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/20/2018 1:48:19 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/20/2018 1:48:19 PM Info Loaded settings from Windows Unknown Unknown
+9/21/2018 10:09:56 AM Info ICD Started
+9/21/2018 10:10:09 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/21/2018 10:10:09 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/21/2018 10:10:09 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/21/2018 10:10:09 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/21/2018 10:10:09 AM Info ICDWindowTitle: 
+9/21/2018 10:10:28 AM Info Project 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/21/2018 10:10:28 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/21/2018 10:10:28 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/21/2018 10:10:28 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/21/2018 10:10:28 AM Info Loaded settings from Windows Unknown Unknown
+9/21/2018 10:10:28 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/21/2018 10:10:28 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/21/2018 10:10:28 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/21/2018 10:10:28 AM Info Loaded settings from Windows Unknown Unknown
+9/21/2018 10:48:49 AM Info ICD Started
+9/21/2018 10:49:05 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/21/2018 10:49:05 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/21/2018 10:49:05 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/21/2018 10:49:05 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/21/2018 10:49:05 AM Info ICDWindowTitle: 
+9/21/2018 10:49:34 AM Info Project 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/21/2018 10:49:34 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/21/2018 10:49:34 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/21/2018 10:49:34 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/21/2018 10:49:34 AM Info Loaded settings from Windows Unknown Unknown
+9/21/2018 10:49:34 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/21/2018 10:49:34 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/21/2018 10:49:34 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/21/2018 10:49:34 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:00:47 AM Info ICD Started
+9/24/2018 11:01:01 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/24/2018 11:01:01 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/24/2018 11:01:01 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/24/2018 11:01:01 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/24/2018 11:01:01 AM Info ICDWindowTitle: 
+9/24/2018 11:01:13 AM Info Project 'X:\Dispatch_Radio_KIOSK_Provisioning\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/24/2018 11:01:13 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:01:13 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:01:13 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:01:13 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:01:13 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:01:13 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:01:13 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:01:13 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:07:54 AM Info ICD Started
+9/24/2018 11:08:07 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/24/2018 11:08:07 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/24/2018 11:08:07 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/24/2018 11:08:07 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/24/2018 11:08:07 AM Info ICDWindowTitle: 
+9/24/2018 11:08:31 AM Info Project 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/24/2018 11:08:31 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:08:31 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:08:31 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:08:31 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:08:31 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:08:31 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:08:31 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:08:31 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:36:20 AM Info ICD Started
+9/24/2018 11:36:33 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/24/2018 11:36:33 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/24/2018 11:36:33 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/24/2018 11:36:33 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/24/2018 11:36:33 AM Info ICDWindowTitle: 
+9/24/2018 11:36:36 AM Info Project 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/24/2018 11:36:36 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:36:36 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:36:36 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:36:36 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:36:36 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:36:36 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:36:36 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:36:36 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:36:50 AM Info ICD Started
+9/24/2018 11:37:03 AM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/24/2018 11:37:03 AM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/24/2018 11:37:03 AM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/24/2018 11:37:03 AM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/24/2018 11:37:03 AM Info ICDWindowTitle: 
+9/24/2018 11:37:07 AM Info Project 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/24/2018 11:37:07 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:37:07 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:37:07 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/24/2018 11:37:07 AM Info Loaded settings from Windows Unknown Unknown
+9/24/2018 11:37:07 AM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:37:07 AM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/24/2018 11:37:07 AM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/24/2018 11:37:07 AM Info Loaded settings from Windows Unknown Unknown
+9/27/2018 2:53:40 PM Info ICD Started
+9/27/2018 2:53:54 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/27/2018 2:53:54 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/27/2018 2:53:54 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/27/2018 2:53:54 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/27/2018 2:53:54 PM Info ICDWindowTitle: 
+9/27/2018 2:53:59 PM Info Project 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/27/2018 2:53:59 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/27/2018 2:53:59 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/27/2018 2:53:59 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/27/2018 2:53:59 PM Info Loaded settings from Windows Unknown Unknown
+9/27/2018 2:53:59 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/27/2018 2:53:59 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/27/2018 2:53:59 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/27/2018 2:53:59 PM Info Loaded settings from Windows Unknown Unknown
+9/27/2018 3:27:22 PM Info ICD Started
+9/27/2018 3:27:35 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+9/27/2018 3:27:35 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+9/27/2018 3:27:35 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+9/27/2018 3:27:35 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+9/27/2018 3:27:35 PM Info ICDWindowTitle: 
+9/27/2018 3:27:56 PM Info Project 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.icdproj.xml' loaded successfully
+9/27/2018 3:27:56 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/27/2018 3:27:56 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/27/2018 3:27:56 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Common-Provisioning.dat
+9/27/2018 3:27:56 PM Info Loaded settings from Windows Unknown Unknown
+9/27/2018 3:27:56 PM Info Loaded Knobs schema hive at C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/27/2018 3:27:56 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+9/27/2018 3:27:56 PM Error     No SKU information file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\ADK_1803\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+9/27/2018 3:27:56 PM Info Loaded settings from Windows Unknown Unknown

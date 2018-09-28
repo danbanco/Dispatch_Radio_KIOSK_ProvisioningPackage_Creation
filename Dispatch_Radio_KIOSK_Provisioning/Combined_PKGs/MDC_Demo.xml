@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<System_List>
+    <System name="Default MDC-1200" type="MDC-1200">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses">
+            <Status name="Status 9" id="9" />
+            <Status name="Status 8" id="8" />
+            <Status name="Status 8" id="8" />
+            <Status name="Status 7" id="7" />
+            <Status name="Status 6" id="6" />
+            <Status name="Status 5" id="5" />
+            <Status name="Status 4" id="4" />
+            <Status name="Status 3" id="3" />
+            <Status name="Status 2" id="2" />
+            <Status name="Status 16" id="16" />
+            <Status name="Status 15" id="15" />
+            <Status name="Status 14" id="14" />
+            <Status name="Status 13" id="13" />
+            <Status name="Status 12" id="12" />
+            <Status name="Status 11" id="11" />
+            <Status name="Status 10" id="10" />
+            <Status name="Status 1" id="1" />
+        </Status_List>
+        <TextMessage_List name="Text Messages">
+            <TextMessage name="Text Message 9" id="9" />
+            <TextMessage name="Text Message 8" id="8" />
+            <TextMessage name="Text Message 7" id="7" />
+            <TextMessage name="Text Message 6" id="6" />
+            <TextMessage name="Text Message 5" id="5" />
+            <TextMessage name="Text Message 4" id="4" />
+            <TextMessage name="Text Message 3" id="3" />
+            <TextMessage name="Text Message 2" id="2" />
+            <TextMessage name="Text Message 16" id="16" />
+            <TextMessage name="Text Message 15" id="15" />
+            <TextMessage name="Text Message 14" id="14" />
+            <TextMessage name="Text Message 13" id="13" />
+            <TextMessage name="Text Message 12" id="12" />
+            <TextMessage name="Text Message 11" id="11" />
+            <TextMessage name="Text Message 10" id="10" />
+            <TextMessage name="Text Message 1" id="1" />
+        </TextMessage_List>
+        <Unit name="MDC Unit 14" id="B004" />
+        <Unit name="MDC Unit 13" id="B003" />
+        <Unit name="MDC Unit 12" id="B002" />
+        <Unit name="MDC Unit 11" id="B001" />
+        <Unit name="MDC Unit 5" id="A005" />
+        <Unit name="MDC Unit 4" id="A004" />
+        <Unit name="MDC Unit 3" id="A003" />
+        <Unit name="MDC Unit 2" id="A002" />
+        <Unit name="MDC Unit 1" id="A001" />
+        <Unit name="Mobiles" id="9FFF" />
+        <Unit name="Mobile" id="9000" />
+        <Unit name="Portables" id="26FF" />
+        <Unit name="Portable" id="2628" />
+        <Unit name="George" id="1728" />
+        <Unit name="Console" id="1000" />
+        <Group name="Consoles" id="CF2" />
+        <Group name="Console Group" id="C12" />
+        <Group name="Group 400" id="400" />
+        <Group name="Group 300" id="300" />
+        <Group name="Fleet Call" id="1FF" />
+        <Group name="Portable Group" id="132" />
+        <Group name="Mobile Group" id="100" />
+    </System>
+    <System name="MDC_System" type="MDC-1200">
+        <Filter_List name="Filters">
+            <Filter name="B Units" />
+            <Filter name="A Units" />
+        </Filter_List>
+        <Status_List name="Statuses">
+            <Status name="Status 1" id="1" />
+            <Status name="Status 10" id="10" />
+            <Status name="Status 11" id="11" />
+            <Status name="Status 12" id="12" />
+            <Status name="Status 13" id="13" />
+            <Status name="Status 14" id="14" />
+            <Status name="Status 15" id="15" />
+            <Status name="Status 16" id="16" />
+            <Status name="Status 2" id="2" />
+            <Status name="Status 3" id="3" />
+            <Status name="Status 4" id="4" />
+            <Status name="Status 5" id="5" />
+            <Status name="Status 6" id="6" />
+            <Status name="Status 7" id="7" />
+            <Status name="Status 8" id="8" />
+            <Status name="Status 9" id="9" />
+        </Status_List>
+        <TextMessage_List name="Text Messages">
+            <TextMessage name="Text Message 1" id="1" />
+            <TextMessage name="Text Message 10" id="10" />
+            <TextMessage name="Text Message 11" id="11" />
+            <TextMessage name="Text Message 12" id="12" />
+            <TextMessage name="Text Message 13" id="13" />
+            <TextMessage name="Text Message 14" id="14" />
+            <TextMessage name="Text Message 15" id="15" />
+            <TextMessage name="Text Message 16" id="16" />
+            <TextMessage name="Text Message 2" id="2" />
+            <TextMessage name="Text Message 3" id="3" />
+            <TextMessage name="Text Message 4" id="4" />
+            <TextMessage name="Text Message 5" id="5" />
+            <TextMessage name="Text Message 6" id="6" />
+            <TextMessage name="Text Message 7" id="7" />
+            <TextMessage name="Text Message 8" id="8" />
+            <TextMessage name="Text Message 9" id="9" />
+        </TextMessage_List>
+        <Group name="Mobile Group" id="100">
+            <Unit name="Mobile" id="9000" />
+            <Unit name="Mobiles" id="9FFF" />
+        </Group>
+        <Group name="Portable Group" id="132">
+            <Unit name="George" id="1728" />
+            <Unit name="Portable" id="2628" />
+            <Unit name="Portables" id="26FF" />
+        </Group>
+        <Group name="Fleet Call" id="1FF" />
+        <Group name="Group 300" id="300">
+            <Unit name="MDC Unit 1" id="A001" />
+            <Unit name="MDC Unit 2" id="A002" />
+            <Unit name="MDC Unit 3" id="A003" />
+            <Unit name="MDC Unit 4" id="A004" />
+            <Unit name="MDC Unit 5" id="A005" />
+        </Group>
+        <Group name="Group 400" id="400">
+            <Unit name="MDC Unit 11" id="B001" />
+            <Unit name="MDC Unit 12" id="B002" />
+            <Unit name="MDC Unit 13" id="B003" />
+            <Unit name="MDC Unit 14" id="B004" />
+        </Group>
+    </System>
+</System_List>

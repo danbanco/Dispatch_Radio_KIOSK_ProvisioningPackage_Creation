@@ -1,0 +1,528 @@
+9/13/2018 12:56:35 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/13/2018 12:56:35 PM Info Loading scenario ID: d2fa89db-1251-4bdf-b1bf-4b96016aaea4, URI: http://localhost:9098/Scenarios/d2fa89db-1251-4bdf-b1bf-4b96016aaea4/Index.html
+9/13/2018 12:56:43 PM Info Clear all Config Template answers
+9/13/2018 12:56:43 PM Info Save Config Template answers for active project
+9/13/2018 12:56:43 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/13/2018 12:56:46 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#partnersearchcode
+9/13/2018 12:56:48 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-cellcore#perdevice
+9/13/2018 12:56:49 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#partnersearchcode
+9/13/2018 12:56:50 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#partnersearchcode
+9/13/2018 12:56:51 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-assignedaccess#assignedaccesssettings
+9/13/2018 12:56:51 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-assignedaccess#assignedaccesssettings
+9/13/2018 12:56:52 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-assignedaccess#multiappassignedaccesssettings
+9/13/2018 12:56:57 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-assignedaccess#assignedaccesssettings
+9/13/2018 12:57:08 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-oobe#desktop
+9/13/2018 12:57:30 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/13/2018 12:57:31 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/13/2018 12:57:32 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/13/2018 12:57:32 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/13/2018 12:57:33 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/13/2018 12:57:36 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/13/2018 12:57:56 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 12:57:57 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 12:57:59 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 12:58:01 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 12:58:10 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 12:58:38 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 12:59:06 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/13/2018 12:59:12 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-782_6800.12_605833692.1'
+9/13/2018 12:59:12 PM Info Adding runtime settings to Provisioning Package
+9/13/2018 12:59:12 PM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-798_6800.12_814526995.2
+9/13/2018 12:59:12 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-798_6800.12_814526995.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/13/2018 12:59:12 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-798_6800.12_814526995.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/13/2018 12:59:12 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-798_6800.12_814526995.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/13/2018 12:59:12 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-798_6800.12_814526995.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/13/2018 12:59:12 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-798_6800.12_814526995.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/13/2018 12:59:12 PM Info Adding deployment settings to Provisioning Package
+9/13/2018 12:59:12 PM Info Adding file assets to Provisioning Package
+9/13/2018 12:59:12 PM Info Packaging file asset C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/13/2018 12:59:13 PM Info Packaging file asset C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\OrchestratorScript.bat
+9/13/2018 12:59:14 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125913-107_6800.12_286347134.cat, Target path: C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/13/2018 12:59:14 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-782_6800.12_605833692.1, Target path: C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/13/2018 12:59:14 PM Info DeleteFile: File '' does not exist
+9/13/2018 12:59:14 PM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-125912-782_6800.12_605833692.1' does not exist
+9/13/2018 12:59:14 PM Info Media Creation Build Success page
+9/13/2018 12:59:15 PM Info Build workflow finished.
+9/13/2018 12:59:21 PM Info Stopping server
+9/13/2018 1:04:38 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/13/2018 1:04:49 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:04:49 PM Error Could not find file 'C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\OrchestratorScript.bat'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Microsoft.Windows.ICD.Provisioning.ImageCustomization.WPX.WPXAssetSetting.get_HashedSourcePath()
+   at Microsoft.Windows.ICD.Provisioning.ImageCustomization.WPX.WPXAssetSetting.GetHashCode()
+   at System.ComponentModel.WeakHashtable.WeakKeyComparer.System.Collections.IEqualityComparer.GetHashCode(Object obj)
+   at System.Collections.Hashtable.GetHash(Object key)
+   at System.Collections.Hashtable.get_Item(Object key)
+   at System.ComponentModel.TypeDescriptor.NodeFor(Object instance, Boolean createDelegator)
+   at System.ComponentModel.TypeDescriptor.GetDescriptor(Object component, Boolean noCustomTypeDesc)
+   at System.ComponentModel.TypeDescriptor.GetPropertiesImpl(Object component, Attribute[] attributes, Boolean noCustomTypeDesc, Boolean noAttributes)
+   at System.Windows.PropertyPath.ResolvePropertyName(String name, Object item, Type ownerType, Object context, Boolean throwOnError)
+   at MS.Internal.Data.PropertyPathWorker.GetInfo(Int32 k, Object item, SourceValueState& svs)
+   at MS.Internal.Data.PropertyPathWorker.ReplaceItem(Int32 k, Object newO, Object parent)
+   at MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   at MS.Internal.Data.PropertyPathWorker.OnDependencyPropertyChanged(DependencyObject d, DependencyProperty dp, Boolean isASubPropertyChange)
+   at MS.Internal.Data.ClrBindingWorker.OnSourceInvalidation(DependencyObject d, DependencyProperty dp, Boolean isASubPropertyChange)
+   at System.Windows.Data.BindingExpression.HandlePropertyInvalidation(DependencyObject d, DependencyPropertyChangedEventArgs args)
+   at System.Windows.Data.BindingExpressionBase.OnPropertyInvalidation(DependencyObject d, DependencyPropertyChangedEventArgs args)
+   at System.Windows.Data.BindingExpression.OnPropertyInvalidation(DependencyObject d, DependencyPropertyChangedEventArgs args)
+   at System.Windows.DependentList.InvalidateDependents(DependencyObject source, DependencyPropertyChangedEventArgs sourceArgs)
+   at System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   at System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   at System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   at System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   at System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   at System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   at MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   at MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   at MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   at MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   at System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   at System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   at Microsoft.Windows.ICD.Core.Base.ICDVMBase.OnPropertyChanged(String propertyName)
+   at Microsoft.Windows.ICD.Core.Base.ICDVMBase.SetProperty[T](T& prop, T value, String propertyName)
+   at Microsoft.Windows.ICD.Core.ViewModels.Customization.CustomizationVM.set_Editor_SelectedNode(ICustomizationTreeNode value)
+   at Microsoft.Windows.ICD.Core.ViewModels.Customization.CustomizationAnswerVM.set_ConfigState(NodeConfigState value)
+   at Microsoft.Windows.ICD.UI.Common.EditorGridBuilder.Editor_GotFocus(Object sender, RoutedEventArgs e)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.FrameworkElement.OnGotFocus(RoutedEventArgs e)
+   at System.Windows.UIElement.IsFocused_Changed(DependencyObject d, DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.FrameworkElement.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.Controls.TextBox.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   at System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   at System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   at System.Windows.DependencyObject.SetValue(DependencyPropertyKey key, Object value)
+   at System.Windows.Input.FocusManager.OnFocusedElementChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.FrameworkElement.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   at System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   at System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   at System.Windows.Input.FocusManager.SetFocusedElement(DependencyObject element, IInputElement value)
+   at System.Windows.Input.KeyboardNavigation.UpdateFocusedElement(DependencyObject focusTarget)
+   at System.Windows.FrameworkElement.OnGotKeyboardFocus(Object sender, KeyboardFocusChangedEventArgs e)
+   at System.Windows.Input.KeyboardFocusChangedEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   at System.Windows.Input.InputManager.ProcessStagingArea()
+   at System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   at System.Windows.Input.KeyboardDevice.ChangeFocus(DependencyObject focus, Int32 timestamp)
+   at System.Windows.Input.KeyboardDevice.TryChangeFocus(DependencyObject newFocus, IKeyboardInputProvider keyboardInputProvider, Boolean askOld, Boolean askNew, Boolean forceToNullIfFailed)
+   at System.Windows.Input.KeyboardDevice.Focus(DependencyObject focus, Boolean askOld, Boolean askNew, Boolean forceToNullIfFailed)
+   at System.Windows.Input.KeyboardDevice.Focus(IInputElement element)
+   at System.Windows.UIElement.Focus()
+   at Microsoft.Windows.ICD.UI.Controls.AssetSetting.<.ctor>b__0_0(Object <p0>, RoutedEventArgs <p1>)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.FrameworkElement.OnGotFocus(RoutedEventArgs e)
+   at System.Windows.UIElement.IsFocused_Changed(DependencyObject d, DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.FrameworkElement.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   at System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   at System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   at System.Windows.DependencyObject.SetValue(DependencyPropertyKey key, Object value)
+   at System.Windows.Input.FocusManager.OnFocusedElementChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.FrameworkElement.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   at System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   at System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   at System.Windows.DependencyObject.SetValueCommon(DependencyProperty dp, Object value, PropertyMetadata metadata, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType, Boolean isInternal)
+   at System.Windows.Input.FocusManager.SetFocusedElement(DependencyObject element, IInputElement value)
+   at Microsoft.Windows.ICD.UI.Common.XamlConverter.<>c__DisplayClass0_0.<Convert>b__0(Object sender, RoutedEventArgs args)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+
+9/13/2018 1:04:54 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:04:58 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:05:03 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:05:19 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:05:24 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:06:10 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/13/2018 1:07:00 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/13/2018 1:07:05 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:07:33 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 1:07:43 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/13/2018 1:07:49 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-649_280.7_1120072724.1'
+9/13/2018 1:07:49 PM Info Adding runtime settings to Provisioning Package
+9/13/2018 1:07:49 PM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-664_280.7_1057526060.2
+9/13/2018 1:07:49 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-664_280.7_1057526060.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/13/2018 1:07:49 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-664_280.7_1057526060.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/13/2018 1:07:49 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-664_280.7_1057526060.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/13/2018 1:07:49 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-664_280.7_1057526060.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/13/2018 1:07:49 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-664_280.7_1057526060.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/13/2018 1:07:49 PM Info Adding deployment settings to Provisioning Package
+9/13/2018 1:07:49 PM Info Adding file assets to Provisioning Package
+9/13/2018 1:07:49 PM Info Packaging file asset C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\install.cmd
+9/13/2018 1:07:49 PM Info Packaging file asset C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/13/2018 1:07:50 PM Info CopyFile: File 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/13/2018 1:07:50 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-963_280.7_2024050146.cat, Target path: C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/13/2018 1:07:50 PM Info CopyFile: File 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/13/2018 1:07:50 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-649_280.7_1120072724.1, Target path: C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/13/2018 1:07:50 PM Info DeleteFile: File '' does not exist
+9/13/2018 1:07:50 PM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180913-130749-649_280.7_1120072724.1' does not exist
+9/13/2018 1:07:50 PM Info Media Creation Build Success page
+9/13/2018 1:07:52 PM Info Build workflow finished.
+9/13/2018 2:10:18 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/13/2018 2:10:29 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/13/2018 2:10:32 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/13/2018 2:10:38 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-766_2812.7_1158398870.1'
+9/13/2018 2:10:38 PM Info Adding runtime settings to Provisioning Package
+9/13/2018 2:10:38 PM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-784_2812.7_1375348955.2
+9/13/2018 2:10:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-784_2812.7_1375348955.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/13/2018 2:10:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-784_2812.7_1375348955.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/13/2018 2:10:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-784_2812.7_1375348955.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/13/2018 2:10:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-784_2812.7_1375348955.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/13/2018 2:10:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-784_2812.7_1375348955.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/13/2018 2:10:38 PM Info Adding deployment settings to Provisioning Package
+9/13/2018 2:10:38 PM Info Adding file assets to Provisioning Package
+9/13/2018 2:10:38 PM Info Packaging file asset C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\install.cmd
+9/13/2018 2:10:38 PM Info Packaging file asset C:\Users\fs.danielbanks\Desktop\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/13/2018 2:10:39 PM Info CopyFile: File 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/13/2018 2:10:39 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141039-087_2812.7_1427821729.cat, Target path: C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/13/2018 2:10:39 PM Info CopyFile: File 'C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/13/2018 2:10:39 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-766_2812.7_1158398870.1, Target path: C:\Users\fs.danielbanks\Documents\Windows Imaging and Configuration Designer (WICD)\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/13/2018 2:10:39 PM Info DeleteFile: File '' does not exist
+9/13/2018 2:10:39 PM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180913-141038-766_2812.7_1158398870.1' does not exist
+9/13/2018 2:10:39 PM Info Media Creation Build Success page
+9/13/2018 2:10:41 PM Info Build workflow finished.
+9/14/2018 7:22:36 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/14/2018 7:22:44 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 7:23:08 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 7:23:09 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 7:23:10 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 7:23:13 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/14/2018 7:23:21 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-221_8740.8_287942765.1'
+9/14/2018 7:23:21 AM Info Adding runtime settings to Provisioning Package
+9/14/2018 7:23:21 AM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-253_8740.8_981457060.2
+9/14/2018 7:23:21 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-253_8740.8_981457060.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/14/2018 7:23:21 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-253_8740.8_981457060.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/14/2018 7:23:21 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-253_8740.8_981457060.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/14/2018 7:23:21 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-253_8740.8_981457060.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/14/2018 7:23:21 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-253_8740.8_981457060.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/14/2018 7:23:21 AM Info Adding deployment settings to Provisioning Package
+9/14/2018 7:23:21 AM Info Adding file assets to Provisioning Package
+9/14/2018 7:23:21 AM Info Packaging file asset D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/14/2018 7:23:21 AM Info Packaging file asset D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/14/2018 7:23:22 AM Info CopyFile: File 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/14/2018 7:23:22 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-768_8740.8_437927237.cat, Target path: D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/14/2018 7:23:22 AM Info CopyFile: File 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/14/2018 7:23:22 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-221_8740.8_287942765.1, Target path: D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/14/2018 7:23:22 AM Info DeleteFile: File '' does not exist
+9/14/2018 7:23:22 AM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-072321-221_8740.8_287942765.1' does not exist
+9/14/2018 7:23:22 AM Info Media Creation Build Success page
+9/14/2018 7:23:23 AM Info Build workflow finished.
+9/14/2018 8:10:04 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/14/2018 8:10:10 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/14/2018 8:10:17 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-024_11552.6_1269836944.1'
+9/14/2018 8:10:17 AM Info Adding runtime settings to Provisioning Package
+9/14/2018 8:10:17 AM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-070_11552.6_470632762.2
+9/14/2018 8:10:17 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-070_11552.6_470632762.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/14/2018 8:10:17 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-070_11552.6_470632762.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/14/2018 8:10:17 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-070_11552.6_470632762.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/14/2018 8:10:17 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-070_11552.6_470632762.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/14/2018 8:10:17 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-070_11552.6_470632762.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/14/2018 8:10:17 AM Info Adding deployment settings to Provisioning Package
+9/14/2018 8:10:17 AM Info Adding file assets to Provisioning Package
+9/14/2018 8:10:17 AM Info Packaging file asset D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/14/2018 8:10:17 AM Info Packaging file asset D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/14/2018 8:10:18 AM Info CopyFile: File 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/14/2018 8:10:18 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-559_11552.6_775826654.cat, Target path: D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/14/2018 8:10:18 AM Info CopyFile: File 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/14/2018 8:10:18 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-024_11552.6_1269836944.1, Target path: D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/14/2018 8:10:18 AM Info DeleteFile: File '' does not exist
+9/14/2018 8:10:18 AM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-081017-024_11552.6_1269836944.1' does not exist
+9/14/2018 8:10:18 AM Info Media Creation Build Success page
+9/14/2018 8:10:19 AM Info Build workflow finished.
+9/14/2018 9:36:36 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/14/2018 9:36:41 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 9:36:42 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 9:36:48 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/14/2018 9:36:59 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-676_8096.3_1946834374.1'
+9/14/2018 9:36:59 AM Info Adding runtime settings to Provisioning Package
+9/14/2018 9:36:59 AM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-692_8096.3_40661329.2
+9/14/2018 9:36:59 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-692_8096.3_40661329.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/14/2018 9:36:59 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-692_8096.3_40661329.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/14/2018 9:36:59 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-692_8096.3_40661329.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/14/2018 9:36:59 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-692_8096.3_40661329.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/14/2018 9:36:59 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-692_8096.3_40661329.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/14/2018 9:36:59 AM Info Adding deployment settings to Provisioning Package
+9/14/2018 9:36:59 AM Info Adding file assets to Provisioning Package
+9/14/2018 9:36:59 AM Info Packaging file asset D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/14/2018 9:36:59 AM Info Packaging file asset D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/14/2018 9:37:00 AM Info CopyFile: File 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/14/2018 9:37:00 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093700-164_8096.3_406841231.cat, Target path: D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/14/2018 9:37:00 AM Info CopyFile: File 'D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/14/2018 9:37:00 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-676_8096.3_1946834374.1, Target path: D:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/14/2018 9:37:01 AM Info DeleteFile: File '' does not exist
+9/14/2018 9:37:01 AM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-093659-676_8096.3_1946834374.1' does not exist
+9/14/2018 9:37:01 AM Info Media Creation Build Success page
+9/14/2018 9:37:02 AM Info Build workflow finished.
+9/14/2018 9:59:55 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/14/2018 10:00:00 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/14/2018 10:00:04 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/14/2018 10:00:11 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-188_6496.6_1683031474.1'
+9/14/2018 10:00:11 AM Info Adding runtime settings to Provisioning Package
+9/14/2018 10:00:11 AM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-203_6496.6_2063265422.2
+9/14/2018 10:00:11 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-203_6496.6_2063265422.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/14/2018 10:00:11 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-203_6496.6_2063265422.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/14/2018 10:00:11 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-203_6496.6_2063265422.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/14/2018 10:00:11 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-203_6496.6_2063265422.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/14/2018 10:00:11 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-203_6496.6_2063265422.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/14/2018 10:00:11 AM Info Adding deployment settings to Provisioning Package
+9/14/2018 10:00:11 AM Info Adding file assets to Provisioning Package
+9/14/2018 10:00:11 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/14/2018 10:00:11 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/14/2018 10:00:12 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/14/2018 10:00:12 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-768_6496.6_1242738970.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/14/2018 10:00:12 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/14/2018 10:00:12 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-188_6496.6_1683031474.1, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/14/2018 10:00:12 AM Info DeleteFile: File '' does not exist
+9/14/2018 10:00:12 AM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180914-100011-188_6496.6_1683031474.1' does not exist
+9/14/2018 10:00:12 AM Info Media Creation Build Success page
+9/14/2018 10:00:13 AM Info Build workflow finished.
+9/19/2018 1:52:03 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/19/2018 1:52:13 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/19/2018 1:52:18 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/19/2018 1:52:24 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-783_2144.4_34216593.1'
+9/19/2018 1:52:24 PM Info Adding runtime settings to Provisioning Package
+9/19/2018 1:52:24 PM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-799_2144.4_489271330.2
+9/19/2018 1:52:24 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-799_2144.4_489271330.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/19/2018 1:52:24 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-799_2144.4_489271330.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/19/2018 1:52:24 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-799_2144.4_489271330.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/19/2018 1:52:24 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-799_2144.4_489271330.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/19/2018 1:52:24 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-799_2144.4_489271330.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/19/2018 1:52:24 PM Info Adding deployment settings to Provisioning Package
+9/19/2018 1:52:25 PM Info Adding file assets to Provisioning Package
+9/19/2018 1:52:25 PM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/19/2018 1:52:25 PM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/19/2018 1:52:25 PM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/19/2018 1:52:25 PM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135225-362_2144.4_1589822482.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/19/2018 1:52:25 PM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/19/2018 1:52:25 PM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-783_2144.4_34216593.1, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/19/2018 1:52:26 PM Info DeleteFile: File '' does not exist
+9/19/2018 1:52:26 PM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180919-135224-783_2144.4_34216593.1' does not exist
+9/19/2018 1:52:26 PM Info Media Creation Build Success page
+9/19/2018 1:52:27 PM Info Build workflow finished.
+9/20/2018 10:06:45 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/20/2018 10:06:51 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/20/2018 10:06:52 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/20/2018 10:06:56 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/20/2018 10:07:04 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-839_6444.5_1979503295.1'
+9/20/2018 10:07:04 AM Info Adding runtime settings to Provisioning Package
+9/20/2018 10:07:04 AM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-870_6444.5_591965339.2
+9/20/2018 10:07:04 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-870_6444.5_591965339.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/20/2018 10:07:04 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-870_6444.5_591965339.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/20/2018 10:07:04 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-870_6444.5_591965339.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/20/2018 10:07:04 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-870_6444.5_591965339.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/20/2018 10:07:04 AM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-870_6444.5_591965339.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/20/2018 10:07:05 AM Info Adding deployment settings to Provisioning Package
+9/20/2018 10:07:05 AM Info Adding file assets to Provisioning Package
+9/20/2018 10:07:05 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/20/2018 10:07:05 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/20/2018 10:07:06 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/20/2018 10:07:06 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100705-560_6444.5_783876405.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/20/2018 10:07:06 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/20/2018 10:07:06 AM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-839_6444.5_1979503295.1, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/20/2018 10:07:06 AM Info DeleteFile: File '' does not exist
+9/20/2018 10:07:06 AM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\2\ICD_20180920-100704-839_6444.5_1979503295.1' does not exist
+9/20/2018 10:07:06 AM Info Media Creation Build Success page
+9/20/2018 10:07:08 AM Info Build workflow finished.
+9/20/2018 1:48:19 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/20/2018 1:48:27 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/20/2018 1:48:37 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-572_4344.5_931380020.1'
+9/20/2018 1:48:37 PM Info Adding runtime settings to Provisioning Package
+9/20/2018 1:48:37 PM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-588_4344.5_2116982148.2
+9/20/2018 1:48:37 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-588_4344.5_2116982148.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/20/2018 1:48:37 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-588_4344.5_2116982148.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/20/2018 1:48:37 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-588_4344.5_2116982148.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/20/2018 1:48:37 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-588_4344.5_2116982148.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/20/2018 1:48:37 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-588_4344.5_2116982148.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/20/2018 1:48:37 PM Info Adding deployment settings to Provisioning Package
+9/20/2018 1:48:37 PM Info Adding file assets to Provisioning Package
+9/20/2018 1:48:37 PM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/20/2018 1:48:37 PM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/20/2018 1:48:38 PM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/20/2018 1:48:38 PM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134838-112_4344.5_1446955546.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/20/2018 1:48:38 PM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/20/2018 1:48:38 PM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-572_4344.5_931380020.1, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/20/2018 1:48:39 PM Info DeleteFile: File '' does not exist
+9/20/2018 1:48:39 PM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134837-572_4344.5_931380020.1' does not exist
+9/20/2018 1:48:39 PM Info Media Creation Build Success page
+9/20/2018 1:48:40 PM Info Build workflow finished.
+9/20/2018 1:49:52 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/20/2018 1:49:58 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-887_4344.9_1969260089.5'
+9/20/2018 1:49:58 PM Info Adding runtime settings to Provisioning Package
+9/20/2018 1:49:58 PM Info CreateTempDirectory: Create directory: C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-902_4344.9_1098392019.6
+9/20/2018 1:49:58 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-902_4344.9_1098392019.6\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/20/2018 1:49:58 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-902_4344.9_1098392019.6\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/20/2018 1:49:58 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-902_4344.9_1098392019.6\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/20/2018 1:49:58 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-902_4344.9_1098392019.6\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/20/2018 1:49:58 PM Info provxml writer, path = C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-902_4344.9_1098392019.6\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/20/2018 1:49:58 PM Info Adding deployment settings to Provisioning Package
+9/20/2018 1:49:58 PM Info Adding file assets to Provisioning Package
+9/20/2018 1:49:58 PM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/20/2018 1:49:58 PM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/20/2018 1:49:59 PM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/20/2018 1:49:59 PM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134959-246_4344.9_171650038.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/20/2018 1:49:59 PM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/20/2018 1:49:59 PM Info CopyFile: Source path: C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-887_4344.9_1969260089.5, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/20/2018 1:50:00 PM Info DeleteFile: File '' does not exist
+9/20/2018 1:50:00 PM Info DeleteFile: File 'C:\Users\fs.daniel.banks\AppData\Local\Temp\3\ICD_20180920-134958-887_4344.9_1969260089.5' does not exist
+9/20/2018 1:50:00 PM Info Media Creation Build Success page
+9/20/2018 1:50:01 PM Info Build workflow finished.
+9/21/2018 10:10:28 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/21/2018 10:10:40 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/21/2018 10:10:53 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-096_4092.4_1555690122.1'
+9/21/2018 10:10:53 AM Info Adding runtime settings to Provisioning Package
+9/21/2018 10:10:53 AM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-112_4092.4_984255190.2
+9/21/2018 10:10:53 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-112_4092.4_984255190.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/21/2018 10:10:53 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-112_4092.4_984255190.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/21/2018 10:10:53 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-112_4092.4_984255190.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/21/2018 10:10:53 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-112_4092.4_984255190.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/21/2018 10:10:53 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-112_4092.4_984255190.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/21/2018 10:10:53 AM Info Adding deployment settings to Provisioning Package
+9/21/2018 10:10:53 AM Info Adding file assets to Provisioning Package
+9/21/2018 10:10:53 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/21/2018 10:10:53 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/21/2018 10:10:54 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/21/2018 10:10:54 AM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-694_4092.4_1459896090.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/21/2018 10:10:54 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/21/2018 10:10:54 AM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-096_4092.4_1555690122.1, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/21/2018 10:10:55 AM Info DeleteFile: File '' does not exist
+9/21/2018 10:10:55 AM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\1\ICD_20180921-101053-096_4092.4_1555690122.1' does not exist
+9/21/2018 10:10:55 AM Info Media Creation Build Success page
+9/21/2018 10:10:58 AM Info Build workflow finished.
+9/21/2018 10:49:35 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/21/2018 10:49:42 AM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/21/2018 10:49:50 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-786_3320.8_139272801.1'
+9/21/2018 10:49:50 AM Info Adding runtime settings to Provisioning Package
+9/21/2018 10:49:50 AM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-817_3320.8_572801077.2
+9/21/2018 10:49:50 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-817_3320.8_572801077.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/21/2018 10:49:50 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-817_3320.8_572801077.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/21/2018 10:49:50 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-817_3320.8_572801077.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/21/2018 10:49:50 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-817_3320.8_572801077.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/21/2018 10:49:50 AM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-817_3320.8_572801077.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/21/2018 10:49:50 AM Info Adding deployment settings to Provisioning Package
+9/21/2018 10:49:50 AM Info Adding file assets to Provisioning Package
+9/21/2018 10:49:50 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\install.cmd
+9/21/2018 10:49:50 AM Info Packaging file asset X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/21/2018 10:49:53 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/21/2018 10:49:53 AM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104951-836_3320.8_1776064328.cat, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/21/2018 10:49:53 AM Info CopyFile: File 'X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/21/2018 10:49:53 AM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-786_3320.8_139272801.1, Target path: X:\ProvisioningScripts\Revised_KIOSK_with_Verbosity\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/21/2018 10:49:54 AM Info DeleteFile: File '' does not exist
+9/21/2018 10:49:54 AM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180921-104950-786_3320.8_139272801.1' does not exist
+9/21/2018 10:49:54 AM Info Media Creation Build Success page
+9/21/2018 10:49:55 AM Info Build workflow finished.
+9/24/2018 11:01:14 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/24/2018 11:01:22 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 11:01:34 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 11:08:32 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/24/2018 11:10:52 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 11:11:03 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 11:11:17 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 11:11:28 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 11:36:37 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/24/2018 11:37:08 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/24/2018 11:40:41 AM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/24/2018 12:03:43 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-oobe#desktop
+9/24/2018 12:05:27 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#applicationmanagement
+9/24/2018 12:07:20 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:08:17 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:09:01 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:09:24 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:10:13 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:11:12 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:11:40 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/24/2018 12:19:53 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/24/2018 12:22:54 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-775_4424.20_275889202.1'
+9/24/2018 12:22:54 PM Info Adding runtime settings to Provisioning Package
+9/24/2018 12:22:54 PM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-801_4424.20_1914956900.2
+9/24/2018 12:22:54 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-801_4424.20_1914956900.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/24/2018 12:22:54 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-801_4424.20_1914956900.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/24/2018 12:22:54 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-801_4424.20_1914956900.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/24/2018 12:22:54 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-801_4424.20_1914956900.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/24/2018 12:22:54 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-801_4424.20_1914956900.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/24/2018 12:22:54 PM Info Adding deployment settings to Provisioning Package
+9/24/2018 12:22:54 PM Info Adding file assets to Provisioning Package
+9/24/2018 12:22:54 PM Info Packaging file asset X:\KioskProvisioningBatchWithCab\install.cmd
+9/24/2018 12:22:54 PM Info Packaging file asset X:\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/24/2018 12:22:56 PM Info CopyFile: File 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/24/2018 12:22:56 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122255-268_4424.20_759921374.cat, Target path: X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/24/2018 12:22:56 PM Info CopyFile: File 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/24/2018 12:22:56 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-775_4424.20_275889202.1, Target path: X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/24/2018 12:22:56 PM Info DeleteFile: File '' does not exist
+9/24/2018 12:22:56 PM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180924-122254-775_4424.20_275889202.1' does not exist
+9/24/2018 12:22:56 PM Info Media Creation Build Success page
+9/24/2018 12:23:23 PM Info Build workflow finished.
+9/27/2018 2:54:00 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/27/2018 2:54:06 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/27/2018 2:54:18 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+9/27/2018 2:54:31 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/27/2018 2:54:38 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-792_6424.3_1392713289.1'
+9/27/2018 2:54:38 PM Info Adding runtime settings to Provisioning Package
+9/27/2018 2:54:38 PM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-823_6424.3_1087037338.2
+9/27/2018 2:54:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-823_6424.3_1087037338.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/27/2018 2:54:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-823_6424.3_1087037338.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/27/2018 2:54:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-823_6424.3_1087037338.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/27/2018 2:54:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-823_6424.3_1087037338.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/27/2018 2:54:38 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-823_6424.3_1087037338.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/27/2018 2:54:38 PM Info Adding deployment settings to Provisioning Package
+9/27/2018 2:54:38 PM Info Adding file assets to Provisioning Package
+9/27/2018 2:54:38 PM Info Packaging file asset X:\KioskProvisioningBatchWithCab\install.cmd
+9/27/2018 2:54:38 PM Info Packaging file asset X:\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/27/2018 2:54:40 PM Info CopyFile: File 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/27/2018 2:54:40 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145439-660_6424.3_1284852306.cat, Target path: X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/27/2018 2:54:40 PM Info CopyFile: File 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/27/2018 2:54:40 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-792_6424.3_1392713289.1, Target path: X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/27/2018 2:54:41 PM Info DeleteFile: File '' does not exist
+9/27/2018 2:54:41 PM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-145438-792_6424.3_1392713289.1' does not exist
+9/27/2018 2:54:41 PM Info Media Creation Build Success page
+9/27/2018 2:54:45 PM Info Build workflow finished.
+9/27/2018 3:27:56 PM Info Project 'Dispatch_Kiosk_Provisioning' created successfully and added to workspace
+9/27/2018 3:28:23 PM Info Start Provisioning package Build for Project: Dispatch_Kiosk_Provisioning
+9/27/2018 3:28:34 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-502_5848.9_1787371691.1'
+9/27/2018 3:28:34 PM Info Adding runtime settings to Provisioning Package
+9/27/2018 3:28:34 PM Info CreateTempDirectory: Create directory: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-518_5848.9_1074443545.2
+9/27/2018 3:28:34 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-518_5848.9_1074443545.2\Prov\RunTime\0__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+9/27/2018 3:28:34 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-518_5848.9_1074443545.2\Prov\RunTime\1__OOBE_Desktop_HideOobe.provxml
+9/27/2018 3:28:34 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-518_5848.9_1074443545.2\Prov\RunTime\2__ProvisioningCommands_DeviceContext_CommandFiles_0.provxml
+9/27/2018 3:28:34 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-518_5848.9_1074443545.2\Prov\RunTime\3__ProvisioningCommands_DeviceContext_CommandFiles_1.provxml
+9/27/2018 3:28:34 PM Info provxml writer, path = C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-518_5848.9_1074443545.2\Prov\RunTime\4__ProvisioningCommands_DeviceContext_CommandLine.provxml
+9/27/2018 3:28:34 PM Info Adding deployment settings to Provisioning Package
+9/27/2018 3:28:34 PM Info Adding file assets to Provisioning Package
+9/27/2018 3:28:34 PM Info Packaging file asset X:\KioskProvisioningBatchWithCab\install.cmd
+9/27/2018 3:28:34 PM Info Packaging file asset X:\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab
+9/27/2018 3:28:36 PM Info CopyFile: File 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat' exist and called with overwrite
+9/27/2018 3:28:36 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152835-037_5848.9_486375529.cat, Target path: X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.cat
+9/27/2018 3:28:36 PM Info CopyFile: File 'X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg' exist and called with overwrite
+9/27/2018 3:28:36 PM Info CopyFile: Source path: C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-502_5848.9_1787371691.1, Target path: X:\Dispatch_Kiosk_Provisioning\Dispatch_Kiosk_Provisioning.ppkg
+9/27/2018 3:28:36 PM Info DeleteFile: File '' does not exist
+9/27/2018 3:28:36 PM Info DeleteFile: File 'C:\Users\fs.danielbanks\AppData\Local\Temp\2\ICD_20180927-152834-502_5848.9_1787371691.1' does not exist
+9/27/2018 3:28:37 PM Info Media Creation Build Success page
+9/27/2018 3:28:43 PM Info Build workflow finished.

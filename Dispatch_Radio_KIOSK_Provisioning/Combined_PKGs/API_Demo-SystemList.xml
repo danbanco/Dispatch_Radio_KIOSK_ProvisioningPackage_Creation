@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<System_List>
+    <System name="Default Telex-Serial" type="Telex-Serial">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses" />
+    </System>
+</System_List>

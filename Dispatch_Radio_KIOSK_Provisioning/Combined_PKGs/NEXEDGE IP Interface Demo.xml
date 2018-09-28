@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<System_List>
+    <System name="Default NEXEDGE Trunk" type="NEXEDGE-TRUNK">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses">
+            <Status name="Backup needed" id="5" />
+            <Status name="Loud and clear" id="4" />
+            <Status name="Fire" id="3" />
+            <Status name="Status 207" id="207" />
+            <Status name="Out of Service" id="2" />
+            <Status name="In Service" id="1" />
+        </Status_List>
+        <TextMessage_List name="Text Messages" />
+        <Unit name="UID 005" id="5" />
+        <Unit name="UID 004" id="4" />
+        <Unit name="UID 3140" id="3140" />
+        <Unit name="UID 3139" id="3139" />
+        <Unit name="UID 3138" id="3138" />
+        <Unit name="UID 3137" id="3137" />
+        <Unit name="UID 3136" id="3136" />
+        <Unit name="UID 3135" id="3135" />
+        <Unit name="UID 3134" id="3134" />
+        <Unit name="UID 3133" id="3133" />
+        <Unit name="UID 3132" id="3132" />
+        <Unit name="UID 3131" id="3131" />
+        <Unit name="UID 3130" id="3130" />
+        <Unit name="UID 3129" id="3129" />
+        <Unit name="UID 003" id="3" />
+        <Unit name="UID 2000" id="2000" />
+        <Unit name="UID 002" id="2" />
+        <Unit name="UID 112" id="112" />
+        <Unit name="UID 111" id="111" />
+        <Unit name="UID 1100" id="1100" />
+        <Unit name="UID 001" id="1" />
+        <Group name="Group 6" id="6" />
+        <Group name="Group 59" id="59" />
+        <Group name="Group 5" id="5" />
+        <Group name="Group 430" id="430" />
+        <Group name="Group 4" id="4" />
+        <Group name="Group 3" id="3" />
+        <Group name="Group 2" id="2" />
+        <Group name="Group 149" id="149" />
+        <Group name="Group 148" id="148" />
+        <Group name="Group 127" id="127" />
+        <Group name="Group 126" id="126" />
+        <Group name="Group 125" id="125" />
+        <Group name="Group 124" id="124" />
+        <Group name="Group 123" id="123" />
+        <Group name="Group 117" id="117" />
+        <Group name="Group 1 " id="1" />
+    </System>
+</System_List>

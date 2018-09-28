@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<System_List>
+    <System name="Default FleetSync" type="FleetSync">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses">
+            <Status name="Evacuate Spaceship" id="BC" />
+            <Status name="Emergency " id="99" />
+            <Status name="Mandown" id="98" />
+            <Status name="Ack Stun Off" id="94" />
+            <Status name="Ack Stun On" id="93" />
+            <Status name="Revive" id="92" />
+            <Status name="Stun" id="91" />
+            <Status name="Inhibit TX" id="90" />
+            <Status name="Horn Honk" id="89" />
+            <Status name="Emergency Trun Off" id="88" />
+            <Status name="In Route" id="15" />
+            <Status name="Flood Warning" id="111" />
+            <Status name="Out of Service" id="11" />
+            <Status name="In Service" id="10" />
+        </Status_List>
+        <Unit name="Airboat 3" id="3033303" />
+        <Unit name="Rescue 3" id="3033302" />
+        <Unit name="Ladder 3" id="3033301" />
+        <Unit name="Air Rescue 2" id="3023203" />
+        <Unit name="Tanker 2" id="3023202" />
+        <Unit name="Engine 2" id="3023201" />
+        <Unit name="HazMat 1" id="3013103" />
+        <Unit name="Ladder 1" id="3013102" />
+        <Unit name="Engine 1" id="3013101" />
+        <Unit name="Car 106" id="1101006" />
+        <Unit name="Newport Dispatch" id="1011100" />
+        <Unit name="Car 109" id="1011009" />
+        <Unit name="Car 108" id="1011008" />
+        <Unit name="Car 107" id="1011007" />
+        <Unit name="Car 105" id="1011005" />
+        <Unit name="Sidney Dispatch" id="1001100" />
+        <Unit name="Car 104" id="1001004" />
+        <Unit name="Car 103" id="1001003" />
+        <Unit name="Car 102" id="1001002" />
+        <Unit name="Car 101" id="1001001" />
+        <Unit name="Car 100" id="1001000" />
+        <Unit name="Dispatch" id="0001100" />
+        <Unit name="Sergeants" id="0001001" />
+        <Group name="Station 3" id="303" />
+        <Group name="Station 2" id="302" />
+        <Group name="Station 1" id="301" />
+        <Group name="Ridgetop Police" id="102" />
+        <Group name="Newport Police" id="101" />
+        <Group name="Sidney Police" id="100" />
+        <Group name="Supervisor" id="000" />
+    </System>
+    <System name="Fire Rescue" type="FleetSync">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses">
+            <Status name="In Service" id="10" />
+            <Status name="Out of Service" id="11" />
+            <Status name="Inhibit TX" id="90" />
+            <Status name="Stun" id="91" />
+            <Status name="Revive" id="92" />
+            <Status name="Emergency " id="99" />
+            <Status name="Busy" id="52" />
+        </Status_List>
+        <Group name="Station 1" id="301">
+            <Unit name="Engine 1" id="3013101" />
+            <Unit name="Ladder 1" id="3013102" />
+            <Unit name="HazMat 1" id="3013103" />
+        </Group>
+        <Group name="Station 2" id="302">
+            <Unit name="Engine 2" id="3023201" />
+            <Unit name="Tanker 2" id="3023202" />
+            <Unit name="Air Rescue 2" id="3023203" />
+        </Group>
+        <Group name="Station 3" id="303">
+            <Unit name="Ladder 3" id="3033301" />
+            <Unit name="Rescue 3" id="3033302" />
+            <Unit name="Airboat 3" id="3033303" />
+        </Group>
+    </System>
+    <System name="Police" type="FleetSync">
+        <Filter_List name="Filters">
+            <Filter name="Squad C" />
+            <Filter name="Squad B" />
+            <Filter name="Squad A" />
+            <Filter name="Dispatchers" />
+            <Filter name="Supervisor" />
+        </Filter_List>
+        <Status_List name="Statuses">
+            <Status name="In Service" id="10" />
+            <Status name="Out of Service" id="11" />
+            <Status name="Inhibit TX" id="90" />
+            <Status name="Stun" id="91" />
+            <Status name="Revive" id="92" />
+            <Status name="Emergency " id="99" />
+            <Status name="Busy" id="52" />
+            <Status name="Evacuate Spaceship" id="BC" />
+            <Status name="In Route" id="15" />
+        </Status_List>
+        <Group name="Sidney Police" id="100">
+            <Unit name="Car 100" id="1001000" />
+            <Unit name="Car 101" id="1001001" />
+            <Unit name="Car 102" id="1001002" />
+            <Unit name="Car 103" id="1001003" />
+            <Unit name="Car 104" id="1001004" />
+            <Unit name="Sidney Dispatch" id="1001100" />
+        </Group>
+        <Group name="Newport Police" id="101">
+            <Unit name="Car 105" id="1011005" />
+            <Unit name="Car 107" id="1011007" />
+            <Unit name="Car 108" id="1011008" />
+            <Unit name="Car 109" id="1011009" />
+            <Unit name="Newport Dispatch" id="1011100" />
+            <Unit name="Car 106" id="1011006" />
+        </Group>
+        <Unit name="Hieu&apos;s Console" id="1021000" />
+        <Unit name="Sergeants" id="0001001" />
+        <Unit name="Dispatch" id="0001100" />
+    </System>
+    <System name="Test System" type="FleetSync">
+        <Filter_List name="Filters">
+            <Filter name="Squad C" />
+            <Filter name="Squad B" />
+            <Filter name="Squad A" />
+            <Filter name="Dispatchers" />
+        </Filter_List>
+        <Status_List name="Statuses">
+            <Status name="In Service" id="10" />
+            <Status name="Out of Service" id="11" />
+            <Status name="Emergency Trun Off" id="88" />
+            <Status name="Horn Honk" id="89" />
+            <Status name="Inhibit TX" id="90" />
+            <Status name="Stun" id="91" />
+            <Status name="Revive" id="92" />
+            <Status name="Ack Stun On" id="93" />
+            <Status name="Ack Stun Off" id="94" />
+            <Status name="Mandown" id="98" />
+            <Status name="Emergency " id="99" />
+        </Status_List>
+        <Unit name="Car 100" id="1001000" />
+        <Unit name="Car 101" id="1001001" />
+        <Unit name="Car 102" id="1001002" />
+        <Unit name="Car 103" id="1001003" />
+        <Unit name="Car 104" id="1001004" />
+    </System>
+</System_List>

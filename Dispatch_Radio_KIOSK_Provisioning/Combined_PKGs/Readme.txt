@@ -1,0 +1,1 @@
+This folder is where all the cposi, keyset, and default veg file information will be stored.

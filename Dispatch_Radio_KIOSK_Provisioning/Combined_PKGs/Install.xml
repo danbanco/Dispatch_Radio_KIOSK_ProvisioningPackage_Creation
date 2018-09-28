@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<Framework>
+	<Environment>
+		<EnvInfo Dept="USDA" Agency="FS" Branch="EBSS-SDE" CheckAdminRights="True"/>
+	</Environment>
+	<Package>
+		<PKGInfo RFC="Dispatch_Radio_Kiosk" Description="Dispatch Radio Kiosk" Version="1" Cache="False" Reboot="False" />
+		<Uninstalls>
+		
+		</Uninstalls>
+		<Installs>
+			<Install Name="Lync Auto-Run Removal" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>RemoveLyncAutoRunRegistry.cmd</Executable>
+				<Arguments></Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Windows Feature Shell Launcher" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>dism.exe</Executable>
+				<Arguments>/online /enable-feature /FeatureName:Client-EmbeddedShellLauncher /all /norestart</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Windows Feature Embedded Logon" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>dism.exe</Executable>
+				<Arguments>/online /enable-feature /FeatureName:Client-EmbeddedLogon /all /norestart</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Visual C++ 2005 x86" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>Visual_C_2005_x86.EXE</Executable>
+				<Arguments>/q</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Visual C++ 2012 x86" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>Visual_C_2012_x86.EXE</Executable>
+				<Arguments>/QUIET /NORESTART</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="C-Soft Software" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>CopyC-SoftFiles.cmd</Executable>
+				<Arguments></Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="C-Soft Runtime File Association" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>CSoftFileAssoc.cmd</Executable>
+				<Arguments></Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Prompt Default Veg Enable" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>RunRegUpdateDeleteDefaultVeg.cmd</Executable>
+				<Arguments></Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="C-Soft Uninstaller" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>regedit.exe</Executable>
+				<Arguments>/s C-Soft_Uninstall.reg</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Bosch Certificate" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>certutil.exe</Executable>
+				<Arguments>-addstore "TrustedPublisher" bosch_publisher_cert.cer</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="ADHB-4 Driver" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>"C:\Program Files (x86)\Telex Communications\C-Soft\usb_drivers\dpinst.exe"</Executable>
+				<Arguments>/q</Arguments>
+				<SuccessCodes>256</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Telex License Server" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>TelexLicenseServer-x86-1.2.0.0.exe</Executable>
+				<Arguments>/VERYSILENT /LOG=LDIR\telex_License_server.log /NORESTART /CLOSEAPPLICATIONS /SUPPRESSMSGBOXES</Arguments>
+				<SuccessCodes>0, 3010</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Local Account" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>PowerShell.exe</Executable>
+				<Arguments>-ExecutionPolicy Bypass -NoProfile -Command .\CreateLocalAccount.ps1 -userAccount Dispatch</Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Custom Shells" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>PowerShell.exe</Executable>
+				<Arguments>-ExecutionPolicy Bypass -NoProfile -Command .\ShellLauncherConfig.ps1 -userAccount Dispatch -Enable</Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Auto-Logon for Kiosk Account" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>PowerShell.exe</Executable>
+				<Arguments>-ExecutionPolicy Bypass -NoProfile -Command .\LocalAutoLogonRegedit.ps1 -userAccount Dispatch</Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+			<Install Name="Restart Computer" ProdType="B" Platform="5.1+" Architecture="B">
+				<ValidateType></ValidateType>
+				<ValidateValue></ValidateValue>
+				<ValidationBoolean></ValidationBoolean>
+				<Executable>PowerShell.exe</Executable>
+				<Arguments>-ExecutionPolicy Bypass -NoProfile -Command .\RestartComputer.ps1</Arguments>
+				<SuccessCodes>0</SuccessCodes>
+				<WaitAfter></WaitAfter>
+				<WaitType></WaitType>
+				<WaitValue></WaitValue>
+				<WaitTimeOut></WaitTimeOut>
+			</Install>
+		</Installs>
+		<Repairs>
+
+		</Repairs>
+	</Package>
+	<Cleanup>
+		<PkgRemove Cache=""/>
+	</Cleanup>
+</Framework>

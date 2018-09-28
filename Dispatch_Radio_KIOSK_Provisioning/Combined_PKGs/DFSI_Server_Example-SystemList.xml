@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<System_List>
+    <System name="Daniels DFSI" type="P25-DFSI">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses" />
+        <Group name="Talk Group 1" id="1" />
+        <Group name="Talk Group 2" id="2" />
+        <Group name="Talk Group 3" id="3" />
+        <Unit name="Kenwood" id="1122" />
+        <Unit name="Moto" id="1500" />
+        <Unit name="Midlan" id="45300" />
+    </System>
+    <System name="Default P25-DFSI" type="P25-DFSI">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses" />
+        <TextMessage_List name="Text Messages" />
+        <Unit name="Midlan" id="45300" />
+        <Unit name="Moto" id="1500" />
+        <Unit name="Kenwood" id="1122" />
+        <Group name="Talk Group 3" id="3" />
+        <Group name="Talk Group 2" id="2" />
+        <Group name="Talk Group 1" id="1" />
+    </System>
+    <System name="Tait DFSI" type="P25-DFSI">
+        <Filter_List name="Filters" />
+        <Status_List name="Statuses" />
+        <Group name="Talk Group 1" id="1" />
+        <Group name="Talk Group 2" id="2" />
+        <Group name="Talk Group 3" id="3" />
+        <Unit name="Kenwood" id="1122" />
+        <Unit name="Moto" id="1500" />
+        <Unit name="Midlan" id="45300" />
+    </System>
+</System_List>

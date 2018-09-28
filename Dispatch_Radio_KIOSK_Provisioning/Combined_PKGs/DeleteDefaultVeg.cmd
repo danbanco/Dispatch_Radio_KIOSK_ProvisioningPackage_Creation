@@ -1,0 +1,11 @@
+@ECHO OFF
+PROMPT PF$G
+PUSHD "%~dp0"
+
+DEL "%cd%\DefaultVeg.txt"
+
+POPD
+
+GOTO:EOF
+
+PROMPT

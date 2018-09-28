@@ -1,0 +1,100 @@
+;--------------------------------------------------------------------------
+; ADHB-4.inf 
+; Copyright (c) 2009 Telex.
+;
+; This INF File is used to setup the ADHB-4 to use WINUSB driver 
+; on Windows XP.
+;--------------------------------------------------------------------------
+
+[Version]
+Signature   = "$Windows NT$"
+Class       = USB
+ClassGUID   = {36fc9e60-c465-11cf-8056-444553540000}
+Provider    = %Telex%
+CatalogFile = ADHB-4.cat
+DriverVer   = 10/29/2009,1.7
+
+;--------------------------------------------------------------------------
+; Manufacturer
+;--------------------------------------------------------------------------
+
+[Manufacturer]
+%Telex% = Devices, NTx86, NTamd64
+
+[Devices.NTx86]
+%USB\VID_0525&PID_A4A4.DeviceDesc% = USB_Install, USB\VID_0525&PID_A4A4
+
+[Devices.NTamd64]
+%USB\VID_0525&PID_A4A4.DeviceDesc% = USB_Install, USB\VID_0525&PID_A4A4
+
+;--------------------------------------------------------------------------
+; Installation
+;--------------------------------------------------------------------------
+
+[USB_Install]
+Include = winusb.inf
+Needs   = WINUSB.NT
+
+[USB_Install.Services]
+Include    = winusb.inf
+AddService = WinUSB,0x00000002,WinUSB_ServiceInstall
+
+[WinUSB_ServiceInstall]
+DisplayName     = %WinUSB_SvcDesc%
+ServiceType     = 1
+StartType       = 3
+ErrorControl    = 1
+ServiceBinary   = %12%\WinUSB.sys
+
+[USB_Install.Wdf]
+KmdfService = WINUSB, WinUsb_Install
+
+[WinUSB_Install]
+KmdfLibraryVersion = 1.7
+
+[USB_Install.HW]
+AddReg = Dev_AddReg
+
+[Dev_AddReg]
+HKR,,DeviceInterfaceGUIDs,0x10000,"{00873FDF-61A8-11D1-AA5E-00C04FB1728B}"
+
+[USB_Install.CoInstallers]
+AddReg    = CoInstallers_AddReg
+CopyFiles = CoInstallers_CopyFiles
+
+[CoInstallers_AddReg]
+HKR,,CoInstallers32,0x00010000,"WdfCoInstaller01007.dll,WdfCoInstaller","WinUSBCoInstaller.dll"
+
+[CoInstallers_CopyFiles]
+WinUSBCoInstaller.dll
+WdfCoInstaller01007.dll
+
+[DestinationDirs]
+CoInstallers_CopyFiles = 11
+
+;--------------------------------------------------------------------------
+; Source Media Section
+;--------------------------------------------------------------------------
+
+[SourceDisksNames]
+1 = %DriversDisk%,,,\i386
+2 = %DriversDisk%,,,\amd64
+
+[SourceDisksFiles.x86]
+WinUSBCoInstaller.dll   = 1
+WdfCoInstaller01007.dll = 1
+
+[SourceDisksFiles.amd64]
+WinUSBCoInstaller.dll   = 2
+WdfCoInstaller01007.dll = 2
+
+;--------------------------------------------------------------------------
+; Strings
+;--------------------------------------------------------------------------
+
+[Strings]
+Telex                         	 = "Bosch Security Systems, Inc."
+Desc                             = "ADHB-4 Driver Package"
+DriversDisk                      = "ADHB-4 Driver Installation Disk"
+USB\VID_0525&PID_A4A4.DeviceDesc = "ADHB-4"
+WinUSB_SvcDesc                   = "WinUSB Driver"

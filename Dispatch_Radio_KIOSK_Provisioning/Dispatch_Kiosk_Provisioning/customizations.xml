@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{f7e6a9ef-9df7-4c6b-9013-7388624adce8}</ID>
+    <Name>Dispatch_Kiosk_Provisioning</Name>
+    <Version>1.16</Version>
+    <OwnerType>OEM</OwnerType>
+    <Rank>0</Rank>
+    <Notes></Notes>
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <OOBE>
+          <Desktop>
+            <HideOobe>True</HideOobe>
+          </Desktop>
+        </OOBE>
+        <Policies>
+          <ApplicationManagement>
+            <AllowAllTrustedApps>Yes</AllowAllTrustedApps>
+          </ApplicationManagement>
+        </Policies>
+        <ProvisioningCommands>
+          <DeviceContext>
+            <CommandFiles>
+              <CommandFile Name="install">X:\KioskProvisioningBatchWithCab\install.cmd</CommandFile>
+              <CommandFile Name="Kiosk_Provisioning">X:\KioskProvisioningBatchWithCab\Kiosk_Provisioning.cab</CommandFile>
+            </CommandFiles>
+            <CommandLine>cmd /c start /max install.cmd</CommandLine>
+          </DeviceContext>
+        </ProvisioningCommands>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>
